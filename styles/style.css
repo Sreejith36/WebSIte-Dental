@@ -64,7 +64,7 @@
 .first {
   width: 100vw;
   height: 520px;
-  background-image: url('/img/01.png');
+  background-image: url("/img/logo1.png");
   background-repeat: no-repeat;
   background-size: cover;
 

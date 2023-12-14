@@ -1,0 +1,54 @@
+.eight {
+    text-align: center;
+    background-color: #E0E0E0;
+    padding: 170px 1px;
+}
+
+.eight h2 {
+    font-size: 3rem;
+    font-weight: 800;
+}
+.eight .btn1 {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: 900;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.eight .btn1:hover{
+    background-color: #002699;
+}
+
+.eight .btn2 {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: #002699;
+    color: white;
+    font-weight: 900;
+    margin-top: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.eight .btn2:hover{
+    background-color: dodgerblue;
+}
+
+@media only screen and (max-width: 720px) {
+    .eight {
+        text-align: center;
+        background-color: #E0E0E0;
+        padding: 100px 1px;
+    }
+
+    .eight h2 {
+        font-size: 2rem;
+    }
+    
+
+}
